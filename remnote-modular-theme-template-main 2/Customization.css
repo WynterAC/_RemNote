@@ -1,0 +1,61 @@
+- Customization
+- ```css
+:root {
+--main-blue-c: #f3f9ff;
+--hover-blue-c: rgb(241, 252, 255);
+--soft-blue-c: #e3f8ff;
+
+--font-c: black;
+--font-background-c: gray;
+
+--border-c: #eee;
+
+--soft-background-c: #f9f9f9;
+
+--bullet-main: #dddddd;
+--bullet-doc: #61e2ff;
+--bullet-folder: #d6ff6e;
+--bullet-concept: #1c54ec;
+--bullet-descriptor: #637fb1;
+
+--focus-font-weight: 380;
+```
+- ```css
+/* Highlight Colors */
+--highlight-red-c: #ffc7c7;
+--highlight-orange-c: #ffd599;
+--highlight-yellow-c: #fef49d;
+--highlight-green-c: #d7e985;
+--highlight-purple-c: #e4b1eb;
+--highlight-blue-c: #afd9fb;
+```
+- ```css
+/* Linked Rems Color */
+--reference-c: #15adff;
+/* Quote Background Color */
+--quote-background-c: #ecf3f6;
+```
+- ```css
+/* Header size */  
+/* --header-1-font-size: 18px;
+--header-1-font-weight: 400;
+--header-2-font-size: 16px;
+--header-2-font-weight: 380;
+--header-3-font-size: 15px;
+--header-3-font-weight: 350;
+
+--header-1-margin-top: 8px;
+--header-2-margin-top: 5px;
+--header-3-margin-top: 3px; */
+
+/* === Font === */
+/* --font-body: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial,: "Arial Unicode MS", Arial, san-serif; */
+
+```
+- ```css
+/* Sidebar Font */
+#homepage #content #document-sidebar,
+#main #content #document-sidebar {
+font-family: "Arial Unicode MS",sans-serif;
+}
+```
